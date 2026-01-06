@@ -8,22 +8,4 @@ author: null
 show_tile: false
 ---
 
-<div class="box">
-<p><strong>OralVision</strong> utilizes deep learning to revolutionize oral diagnostics in underserved communities. Our innovative device captures high-resolution images of the oral cavity and analyzes them in real-time using advanced machine learning algorithms, providing physicians with accurate diagnostic insights for early detection of oral cancers and periodontal diseases.</p>
-</div>
-
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h3>Our Mission</h3>
-		<p>By making affordable, accessible diagnostic technology available to low-income communities worldwide, we're working to improve survival rates and transform oral health care.</p>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Key Benefits</h3>
-		<ul>
-			<li>Real-time diagnostic analysis</li>
-			<li>Affordable and accessible technology</li>
-			<li>Early detection of oral diseases</li>
-			<li>Worldwide impact on underserved communities</li>
-		</ul>
-	</div>
-</div>
+Oral cavity cancers are highly treatable when caught early, but almost 70% of cases are diagnosed too late due to clinical uncertainty and a lack of accessible screening tools, leading to over 170,000 deaths annually. OralVision is an intraoral, deep-learning-powered diagnostic device designed to change this unfortunate reality. The device captures high resolution images of the oral cavity and analyzes them in real time using a pre-trained neural network that can identify malignant tissue patterns oblivious to the naked eye. By integrating noninvasive imaging with advanced artificial intelligence, our innovation is capable of providing physicians with highly accurate diagnostic insights, allowing for earlier clinical referrals and therapeutic intervention. Moreover, with its use of inexpensive, yet powerful components, OralVision has the potential to be mass produced and distributed at a much lower marginal cost than existing solutions, contributing to improved 5-year survival rates, especially in marginalized low-income communities.

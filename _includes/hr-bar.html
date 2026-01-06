@@ -1,0 +1,10 @@
+<!-- Horizontal Bar -->
+{% assign bar_class = include.class | default: "" %}
+{% assign bar_style = include.style | default: "" %}
+{% assign bar_width = include.width | default: "100%" %}
+{% assign bar_align = include.align | default: "left" %}
+
+<div class="hr-bar {{ bar_class }}" style="text-align: {{ bar_align }}; {{ bar_style }}">
+    <span class="hr-bar-line" style="width: {{ bar_width }};"></span>
+</div>
+

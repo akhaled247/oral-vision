@@ -30,18 +30,21 @@
     <!-- Main -->
     <div id="main">
 
+         <!-- Two -->
+         <section id="two">
+            <div class="inner">
+                <header class="major">
+                    <h2>Overview</h2>
+                </header>
+                <p>{{ content }}</p>
+            </div>
+        </section>
+    </div>
+
         <!-- One -->
         {% include tiles.html %}
 
-        <!-- Two -->
-    </div>
-
-    <section id="two">
-        <div class="inner">
-            
-            <!-- <p>{{ content }}</p> -->
-        </div>
-    </section>
+        {% include hr-bar.html width="90%" align="center" class="fg thick major" %}
 
     {% include footer.html %}
 
