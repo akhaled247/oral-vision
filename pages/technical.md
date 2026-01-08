@@ -20,6 +20,8 @@ The entire system is then enveloped in a sterilization wrap to prevent bacteria 
 
 ## System Architecture
 
+![System architecture diagram]({{ site.baseurl }}/assets/images/architecture.png)
+
 OralVision employs a three-layer distributed architecture optimized for low-latency medical imaging while considering the physical and resource constraints of its target clients:
 
 1. **Sensing Layer** - Arducam OV5642 5-MP image sensor and a 140-degree camera lens to maximize coverage and image quality while minimizing image capture latency.
